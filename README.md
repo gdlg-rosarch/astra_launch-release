@@ -1,3 +1,26 @@
+## astra_launch (kinetic) - 0.2.2-0
+
+The packages in the `astra_launch` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release astra_launch --track kinetic --rosdistro kinetic` on `Fri, 23 Mar 2018 16:19:12 -0000`
+
+The `astra_launch` package was released.
+
+Version of package(s) in repository `astra_launch`:
+
+- upstream repository: https://github.com/orbbec/ros_astra_launch.git
+- release repository: https://github.com/ros-drivers-gbp/astra_launch-release.git
+- rosdistro version: `0.2.1-0`
+- old version: `0.2.1-0`
+- new version: `0.2.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## astra_launch (indigo) - 0.2.1-0
 
 The packages in the `astra_launch` repository were released into the `indigo` distro by running `/usr/bin/bloom-release astra_launch --track indigo --rosdistro indigo --edit` on `Mon, 12 Feb 2018 15:56:07 -0000`
